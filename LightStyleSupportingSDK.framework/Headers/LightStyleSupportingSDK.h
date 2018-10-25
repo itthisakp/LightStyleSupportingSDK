@@ -15,5 +15,7 @@ FOUNDATION_EXPORT double LightStyleSupportingSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char LightStyleSupportingSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <LightStyleSupportingSDK/PublicHeader.h>
-
+#import <LightStyleSupportingSDK/LSBridging.h>
+#import <LightStyleSupportingSDK/GCDAsyncSocket.h>
+#import <LightStyleSupportingSDK/GCDAsyncUdpSocket.h>
 

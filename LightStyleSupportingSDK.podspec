@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author             = "LightStyle"
   s.ios.deployment_target = '9.0'
   s.swift_version = '4.2'
-  s.source       = { :git => "https://github.com/itthisakp/LightStyle.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/itthisakp/LightStyleSupportingSDK.git", :tag => "#{s.version}" }
   s.ios.vendored_frameworks  = "LightStyleSupportingSDK.framework"
 
 end
