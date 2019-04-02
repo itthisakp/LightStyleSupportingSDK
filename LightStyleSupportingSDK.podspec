@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LightStyleSupportingSDK"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "Light Style SupportingSDK SDK"
   s.homepage     = "https://github.com/itthisakp/LightStyle"
   s.license      = "Light Style"
