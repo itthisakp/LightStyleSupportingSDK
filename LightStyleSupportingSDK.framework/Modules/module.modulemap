@@ -1,6 +1,7 @@
 framework module LightStyleSupportingSDK {
-  umbrella header "LightStyleSupportingSDK.h"
-
-  export *
-  module * { export * }
+    header "/Users/itthisakp/Documents/SSA/lightstyle-ios/LightStyleSupportingSDK/LSBridging.h"
+    header "/Users/itthisakp/Documents/SSA/lightstyle-ios/LightStyleSupportingSDK/GCDAsyncSocket.h"
+    header "/Users/itthisakp/Documents/SSA/lightstyle-ios/LightStyleSupportingSDK/GCDAsyncUdpSocket.h"
+    export *
 }
+

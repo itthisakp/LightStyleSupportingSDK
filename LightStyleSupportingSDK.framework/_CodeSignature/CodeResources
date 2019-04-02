@@ -4,86 +4,41 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/GCDAsyncSocket.h</key>
-		<data>
-		/lZI/cTHU4xM/6tkj6KfMo4B0Ls=
-		</data>
-		<key>Headers/GCDAsyncUdpSocket.h</key>
-		<data>
-		0481iNPobQghjVX74kpxRbfXKpI=
-		</data>
-		<key>Headers/LSBridging.h</key>
-		<data>
-		hqYX8mQ3Q7v1ijZEDvdYcommHxM=
-		</data>
 		<key>Headers/LightStyleSupportingSDK.h</key>
 		<data>
-		i97rpmGhnIrCRMl1GJ2ubUYet8I=
+		mspJty7nJDAIyJDD4WSIgDB7DmA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RJ8pVzmvi6up6KglEe+XvSTFVv0=
+		INte+Wg6HYKeB2xl9lU2wvbah7Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		NcYga6/twiUATCwdFPU3LwFyFXw=
+		M6BdkpIboQAJuFAaKGoYcd8pRRo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/GCDAsyncSocket.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/lZI/cTHU4xM/6tkj6KfMo4B0Ls=
-			</data>
-			<key>hash2</key>
-			<data>
-			aj3NHnhkd9Qjyn4gxK2hqn+1sbqN8Eeb+7Y3xHU9i+4=
-			</data>
-		</dict>
-		<key>Headers/GCDAsyncUdpSocket.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0481iNPobQghjVX74kpxRbfXKpI=
-			</data>
-			<key>hash2</key>
-			<data>
-			BPXmqJHe3cPbFYen2pEUSVYA37rH88XjcGHpymyqAn0=
-			</data>
-		</dict>
-		<key>Headers/LSBridging.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hqYX8mQ3Q7v1ijZEDvdYcommHxM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ntKMDxRzL0iq0uJVOJJuhaNWeHavD6ISc602aWZ/QLo=
-			</data>
-		</dict>
 		<key>Headers/LightStyleSupportingSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i97rpmGhnIrCRMl1GJ2ubUYet8I=
+			mspJty7nJDAIyJDD4WSIgDB7DmA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sui+x7eUfdsc6rd/IUgaamdIUcPRNErLgdceaj9p1lM=
+			4fH0oEFD8Czh1y3ZU++G3fs1wLeTZYPmKXPZAomErVM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NcYga6/twiUATCwdFPU3LwFyFXw=
+			M6BdkpIboQAJuFAaKGoYcd8pRRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0a5ppm65eIfoF/WwkSaJhQc3vH9wYAPrgj2W4+QoBdk=
+			PDFVP6lj5lQgvy2yYqIj3rD7avvZWY8sbFS2EygNf6I=
 			</data>
 		</dict>
 	</dict>
