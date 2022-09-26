@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		INte+Wg6HYKeB2xl9lU2wvbah7Y=
+		RKFtDCHiHnd1cjLZMyCiq8DXakA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -21,10 +21,6 @@
 	<dict>
 		<key>Headers/LightStyleSupportingSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mspJty7nJDAIyJDD4WSIgDB7DmA=
-			</data>
 			<key>hash2</key>
 			<data>
 			4fH0oEFD8Czh1y3ZU++G3fs1wLeTZYPmKXPZAomErVM=
@@ -32,10 +28,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NcYga6/twiUATCwdFPU3LwFyFXw=
-			</data>
 			<key>hash2</key>
 			<data>
 			0a5ppm65eIfoF/WwkSaJhQc3vH9wYAPrgj2W4+QoBdk=

@@ -1,0 +1,6 @@
+framework module LightStyleSupportingSDK {
+  umbrella header "LightStyleSupportingSDK.h"
+
+  export *
+  module * { export * }
+}
